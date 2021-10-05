@@ -1,4 +1,5 @@
 .cache
 dist
 .DS_Store
+# it seems that I don't have to specify nested folders with node_modules
 node_modules
