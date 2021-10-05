@@ -2,3 +2,6 @@
 dist
 .DS_Store
 node_modules
+
+# the cloned branches, ie folders
+huckleberry
