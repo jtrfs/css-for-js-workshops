@@ -23,38 +23,3 @@
 |  3  |                  |        |                      |          |
 |  4  |                  |        |                      |          |
 |  5  |                  |        |                      |          |
-
----
-
-## Structure of my repo/workflow
-
-#### 1 Connecting local & remote repositories
-
-I am creating one repository, done locally and then remotely through [gh cli](https://github.com/cli/cli). The idea is to have only one repo and then several different branches, each for individual workshop. I am also using`oh-my-zsh` (omz).
-
-- **`take css-for-js-workshops`** ...create the folder and cd into it (omz)
-- **`git init`** ... local git repository initialised
-- **`gh repo create`** ...create a remote repo and add an 'origin' remote to my local repository
-- now, I have to create some content, eg _README_ and _.gitignore_ files
-- **`git add --all`** and **`git commit -m "some_message"`** or with the help of omz git plugin I just type: **`gaa`** and **`gcmsg "some_message"`**
-- **`git push -u origin main`** ...the local and remote are 'connected'
-
-#### 2 Cloning Josh's repos
-
-I am going to **clone** one repo/task/project/workshop at a time.
-
-- **`git clone <repo_url>`** ... cloning the repo
-
-#### 3 Changing the repo's url
-
-Then I have to change the repo's remote url for my own remote url.
-
-- **`git remote`** ... checking the remote's name (usually 'origin')
-- **`git remote remove origin`** ... the remote removed
-- **`git remote add origin <new_url>`** ... the new remote added
-
-#### 4 Coding ... at last 🤪
-
-Now, I can start working on the projects/tasks ... it means **`npm install`** and then possibly **`npm start`**.
-Don't forget about regular **`git add`**, **`git commit`**, **`git push`**. Everything must by committed, especially if you are working on multiple branches.
-Also remember to add _.gitignore_ file, node_modules folder is not necessary since we can always use **`npm install`** command.
