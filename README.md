@@ -1,4 +1,4 @@
-# About the workshops | MAIN BRANCH
+# About the workshops
 
 #### Josh says:
 
