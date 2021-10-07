@@ -20,7 +20,7 @@
 | No. | Workshop's Name  | Status | Location Folder            |
 | :-: | :--------------- | :----: | :------------------- | 
 |  1  | Huckleberry      |   ✅   | [hucklebery](https://github.com/jtrfs/css-for-js-workshops/tree/main/1-huckleberry)       |
-|  2  | Create Character |   ✏️   | [create-character](https://github.com/jtrfs/css-for-js-workshops/tree/main/2-create-character) |  
+|  2  | Create Character | ❌   | [create-character](https://github.com/jtrfs/css-for-js-workshops/tree/main/2-create-character) |  
 |  3  |                  |        |                      |  
 |  4  |                  |        |                      | 
 |  5  |                  |        |                      |    
