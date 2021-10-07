@@ -16,7 +16,7 @@
 2. Spend up to **2 hours working on the problem**. If you get discouraged or frustrated, you can stop earlier!
 3. After you've invested a good chunk of time into the problem, **watch the solution video** (embedded in the next lesson). I'll show you how I'd approach this problem.
 
-#### My way to go
+## My way to go
 
 1. downloading the workshop's files as a zip file
 2. placing the file in the local git subfolder
@@ -25,9 +25,9 @@
 5. now I am ready to execute `npm intstall` command that is followed by `npm start` command since there is the _package.json_ file
 6. working on the problems ...
 
-#### My solutions
+## My solutions
 
-| No. | Workshop's Name  | Status | Location Folder                                                                                |
+| No. | Workshop's Name  | Status | Folder Location                                                                               |
 | :-: | :--------------- | :----: | :--------------------------------------------------------------------------------------------- |
 |  1  | Huckleberry      |   ✅   | [hucklebery](https://github.com/jtrfs/css-for-js-workshops/tree/main/1-huckleberry)            |
 |  2  | Create Character |   ❌   | [create-character](https://github.com/jtrfs/css-for-js-workshops/tree/main/2-create-character) |
