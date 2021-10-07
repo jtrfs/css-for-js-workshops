@@ -1,4 +1,4 @@
-# THE COURSE
+# THE CSS COURSE
 ![alt screenshot](https://github.com/jtrfs/css-for-js-workshops/blob/main/page_screenshot.png)
 > the course url: https://css-for-js.dev/
 
@@ -20,7 +20,7 @@
 | No. | Workshop's Name  | Status | Location Folder            |
 | :-: | :--------------- | :----: | :------------------- | 
 |  1  | Huckleberry      |   ✅   | [hucklebery](https://github.com/jtrfs/css-for-js-workshops/tree/main/1-huckleberry)       |
-|  2  | Create Character | ❌   | [create-character](https://github.com/jtrfs/css-for-js-workshops/tree/main/2-create-character) |  
+|  2  | Create Character |   ❌   | [create-character](https://github.com/jtrfs/css-for-js-workshops/tree/main/2-create-character) |  
 |  3  |                  |        |                      |  
 |  4  |                  |        |                      | 
 |  5  |                  |        |                      |    
