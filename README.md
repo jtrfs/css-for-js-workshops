@@ -1,4 +1,9 @@
-# About the workshops
+# THE COURSE
+![alt screenshot](https://github.com/jtrfs/css-for-js-workshops/blob/main/page_screenshot.png)
+> the course url: https://css-for-js.dev/
+
+
+## About the workshops
 
 #### Josh says:
 
