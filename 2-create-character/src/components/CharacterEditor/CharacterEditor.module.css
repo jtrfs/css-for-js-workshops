@@ -26,9 +26,11 @@
 }
 
 .characterWrapper {
-  position: absolute;
-  right: 0;
-  top: 0;
+  position: fixed;
+  height: 500px;
+  left: 60%;
+  top: 15%;
+  bottom: 5%;
 }
 
 .controlColumn {

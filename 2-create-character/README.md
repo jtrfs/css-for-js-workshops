@@ -26,9 +26,9 @@ This workshop is divided into several parts/**exercises**:
 
 ## Exercises:
 
-- Exercise 1: **Fix footer links**
+- Exercise 1: **Fix footer links** ✅
 
-- Exercise 2: **Layout adjustments**
+- Exercise 2: **Layout adjustments** ✅
 
 - Exercise 3: **Overflow**
 
