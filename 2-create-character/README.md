@@ -34,7 +34,7 @@ This workshop is divided into several parts/**exercises**:
 
 - Exercise 4: **Perspective decoration** ✅
 
-- Exercise 5 (Stretch): **Implement a mobile variant**
+- Exercise 5 (Stretch): **Implement a mobile variant** 🤪
 
 ---
 
@@ -44,4 +44,4 @@ This workshop is divided into several parts/**exercises**:
 2. **the command `npm install` entered** > the node_modules folder with necessary packages created
 3. **the command `npm start` executed** > let's start coding ...
 
-... I am working on it ... 👨🏻‍💻
+... I am done 😎.
