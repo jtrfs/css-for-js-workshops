@@ -6,6 +6,22 @@ It follows the mockups provided by Josh (see Josh's [README](https://github.com/
 
 This project is built with **REACT** and uses **CSS Modules**.. CSS modules are ultimately very similar to vanilla CSS, but the classes are applied in JS. Additionally, a few global styles can be found in src/index.css.
 
+```js
+/* Something.module.css */
+.wrapper {
+  width: 500px;
+}
+```
+
+```js
+/* Something.js */
+import styles from "./Something.module.css";
+
+function Something() {
+  return <div className={styles.wrapper}>I'll be 500px wide!</div>;
+}
+```
+
 This workshop is divided into several parts/**exercises**:
 
 ## Exercises:
