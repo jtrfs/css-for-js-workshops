@@ -32,7 +32,7 @@ This workshop is divided into several parts/**exercises**:
 
 - Exercise 3: **Overflow** ✅
 
-- Exercise 4: **Perspective decoration**
+- Exercise 4: **Perspective decoration** ✅
 
 - Exercise 5 (Stretch): **Implement a mobile variant**
 
