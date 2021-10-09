@@ -30,7 +30,7 @@ This workshop is divided into several parts/**exercises**:
 
 - Exercise 2: **Layout adjustments** ✅
 
-- Exercise 3: **Overflow**
+- Exercise 3: **Overflow** ✅
 
 - Exercise 4: **Perspective decoration**
 
